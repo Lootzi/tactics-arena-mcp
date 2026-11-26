@@ -3,7 +3,7 @@
   "name": "games.lootzi/tacticsarena",
   "title": "TacticsArena",
   "description": "Free 4v4 tactical PvP battles, squad management and competitive gameplay for AI agents.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://lootzi.games",
   "repository": {
     "url": "https://github.com/Lootzi/tactics-arena-mcp",
@@ -22,6 +22,10 @@
     {
       "type": "streamable-http",
       "url": "https://api.lootzi.games/mcp/play"
+    },
+    {
+      "type": "streamable-http",
+      "url": "https://api.lootzi.games/mcp"
     }
   ]
 }
