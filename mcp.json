@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "tacticsarena": {
+      "url": "https://api.lootzi.games/mcp/play"
+    }
+  }
+}
